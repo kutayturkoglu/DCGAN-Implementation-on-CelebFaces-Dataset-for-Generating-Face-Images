@@ -62,7 +62,7 @@ A GAN consists of three key components: Discriminator, Generator, and latent spa
 3. Optionally, adjust hyperparameters and configurations as needed.
 
 ## Contributing
-Contributions are welcome! Please check the [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
+Contributions are welcome! Please reach me out for any possible contributions.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
