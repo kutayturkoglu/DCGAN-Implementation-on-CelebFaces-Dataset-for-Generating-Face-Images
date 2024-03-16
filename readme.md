@@ -16,7 +16,7 @@ This project explores Generative AI at a beginner level, utilizing a DCGAN model
 
 ## Generative Adversarial Networks (GANs)
 A GAN consists of three key components: Discriminator, Generator, and latent space. These components engage in a competitive process where the generator aims to produce realistic images to fool the discriminator, while the discriminator aims to distinguish between real and fake images. Binary cross-entropy loss is used for training the discriminator and the generator, creating a minimax game scenario.
-![GAN Architecture](src\gan_architecture.jpg)
+![GAN Architecture](src/gan_architecture.jpg)
 ## Training Pseudocode
 ### 1. Initialize Training Parameters
    - Set number of epochs (e.g., 100)
