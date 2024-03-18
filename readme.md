@@ -64,6 +64,9 @@ A GAN consists of three key components: Discriminator, Generator, and latent spa
 ## Contributing
 Contributions are welcome! Please reach me out for any possible contributions.
 
+## Further Info
+The model has been trained many epochs beforehand to be able to hold the weights inside of the DCGAN_celeba_d and DCGAN_celeba_g files. In the latest version, a transfer learning method has been used. The initial weights have been assigned from the weights that has been obtained from the previous trainings.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
